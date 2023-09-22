@@ -7,8 +7,8 @@ Funcionalidade: Busca
     QUERO poder buscar por diferentes produtos
     PARA poder personalizar minhas compras
 
-    Contexto: Estar na home
-        Dado que esteja na home
+    Contexto: Estar logado na conta
+        Dado que estou logado na minha conta
 
     @search_for_product
     Cenário: Buscar por um produto existente

@@ -1,0 +1,9 @@
+valid_product: 'Logitech'
+user_for_login:
+  email: 'teste@compass.com.br'
+  password: '123456&'
+
+user_for_register:
+  email: 'teste@compass.com.br'
+  name: 'john'
+  password: '123456&'
